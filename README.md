@@ -17,7 +17,7 @@ The goal of this project is to explore the dataset and answer key questions thro
 
 ## Key Steps
 
-- Loaded and explored the dataset (`netflix_titles.csv`)
+- Loaded and explored the dataset
 - Cleaned data by handling missing values and dropping irrelevant columns
 - Converted date fields to proper datetime format
 - Split multi-genre entries into individual rows
